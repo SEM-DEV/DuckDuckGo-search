@@ -1,2 +1,10 @@
-# DuckDuckGo-search
-Search the selected text on DuckDuckGo from the contextMenu.
+# DuckDuckGo-search-Extension
+
+## What it does ##
+A Microsoft Edge extension to search the selected text on DuckDuckGo.
+
+
+
+
+
+[Get it from Edge]()
