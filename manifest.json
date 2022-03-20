@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "search on DuckDuckGo",
+    "name": "search on Duck Duck Go",
 	"homepage_url": "https://github.com/SEM-DEV/DuckDuckGo-search-Extension",
-    "version": "3.0",
+    "version": "4.0",
     "description": "Search the selected text on DuckDuckGo from the contextMenu.",
    
     
